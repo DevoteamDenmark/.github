@@ -1,5 +1,5 @@
 <!-- 
-Thanks for creating this pull request 🤗
+Thanks for creating this pull request 🤗 This is a live document, so feel free to reach out, to improve this template
 
 Please make sure that the pull request is limited to one type (docs, feature, etc.) and keep it as small as possible. You can open multiple prs instead of opening a huge one.
 -->
