@@ -11,7 +11,7 @@ assignees: ''
 * First Description
 * More Description
 
-## DoD - Definition of Done
+## Acceptence Criterea
 - [ ] Must be in main
 - [ ] Must deploys & be applied through the pipeline checks and builds
 - [ ] Must be reviewed by teammember and pass tests
