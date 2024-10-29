@@ -8,15 +8,10 @@ assignees: ''
 ---
 
 ## Description
-* First Description
-* More Description
+* First Description eg. As a ... i want to ... so that ...
 
-## Acceptence Criterea
-- [ ] Must be in main
-- [ ] Must deploys & be applied through the pipeline checks and builds
-- [ ] Must be reviewed by teammember and pass tests
+## Acceptance Criteria
+- [ ] First Criteria
+- [ ] Second Criteria
 
-## Tasks 
-- [ ] Task one
-- [ ] Task two
-- [ ] Task three
+
