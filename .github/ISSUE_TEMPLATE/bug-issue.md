@@ -2,7 +2,7 @@
 name: Bug Issue
 about: This is a Bug Issue template, living template so is subject to change
 title: My New Bug
-labels: ''
+labels: 'Bug'
 assignees: ''
 
 ---
